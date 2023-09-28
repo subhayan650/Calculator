@@ -1,0 +1,30 @@
+.dg-calc-wrapper {
+	border:1px solid #adadad;
+	border-radius:4px;
+	margin-top:10px;
+	max-width:300px;
+	padding:10px;
+	background-color: #c5eefa;
+	box-shadow: 0 0 10px 2px #ccc;
+}
+.dg-calc-wrapper .dg-calc-row-margin {
+	margin-bottom:5px;
+}
+.dg-calc-wrapper .dg-calc-row-margin:last-child {
+	margin-bottom:0;
+}
+.dg-calc-btn {
+	width:100%;
+	background: #bbffcb;
+    font-weight: 700;
+}
+.dg-calc-btn:focus {
+	outline:none !important;
+}
+.body-content{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
